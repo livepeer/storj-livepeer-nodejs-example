@@ -1,4 +1,4 @@
-# storj-livepeer-example
+# storj-livepeer-nodejs-example
 
 ## Install
 
