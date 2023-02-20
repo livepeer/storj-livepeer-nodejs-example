@@ -23,6 +23,7 @@ const uploadToS3 = async (endpoint, params) => {
 		// The following env vars must be set:
 		// - AWS_ACCESS_KEY_ID
 		// - AWS_SECRET_ACCESS_KEY
+		region: 'unused',
 		credentials: fromEnv(),
 	})
 
